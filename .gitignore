@@ -1,0 +1,12 @@
+node_modules/
+.dart_tool/
+build/
+.env
+.env.*
+*.iml
+.idea/
+.vscode/
+ios/Pods/
+android/.gradle/
+*.log
+.DS_Store

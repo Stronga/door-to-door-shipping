@@ -71,7 +71,7 @@ Paste carrier + tracking number/link on the **container** (and optionally item).
 - Multi-tenant SaaS for other yards
 
 ## Open decisions
-- [ ] Flutter vs React Native
+- [x] Flutter vs React Native → **Flutter** (scaffold on main)
 - [ ] Exact Firestore collection layout & security rules
 - [ ] Offline-first requirements for yard Wi‑Fi gaps
 - [ ] Sample label formats to tune OCR (see attached label photos)

@@ -45,5 +45,9 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Take a photo of the shipping label so the yard can record the shipment.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Choose an existing photo of a shipping label.</string>
 </dict>
 </plist>

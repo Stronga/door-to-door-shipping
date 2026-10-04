@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'screens/add_shipment_screen.dart';
+import 'screens/confirm_shipment_screen.dart';
 import 'screens/container_detail_screen.dart';
 import 'screens/home_screen.dart';
 import 'screens/item_detail_screen.dart';
@@ -34,6 +35,7 @@ class DoorToDoorApp extends StatelessWidget {
         HomeScreen.routeName: (_) => const HomeScreen(),
         ContainerDetailScreen.routeName: (_) => const ContainerDetailScreen(),
         AddShipmentScreen.routeName: (_) => const AddShipmentScreen(),
+        ConfirmShipmentScreen.routeName: (_) => const ConfirmShipmentScreen(),
         ItemDetailScreen.routeName: (_) => const ItemDetailScreen(),
         SearchScreen.routeName: (_) => const SearchScreen(),
         ManagementDashboardScreen.routeName: (_) =>
